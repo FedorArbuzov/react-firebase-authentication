@@ -4,6 +4,8 @@
   "private": true,
   "homepage": "https://react-auth-2f606.firebaseapp.com/",
   "dependencies": {
+    "firebase-admin": "^5.9.1",
+    "firebase-functions": "^0.8.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-scripts": "1.1.1"
